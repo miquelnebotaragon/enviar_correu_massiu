@@ -1,0 +1,4 @@
+Assumpte: Benvingut/da a la formació Primeres passes amb Python.
+
+Hola {nom},
+Què tal et trobes? Em present...

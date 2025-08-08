@@ -1,6 +1,7 @@
 # 📤 Enviament massiu de correu des de Python
 [![Website](https://img.shields.io/badge/Moodle-miquelnebot.eu-blue)](https://miquelnebot.eu)
-[![License](https://img.shields.io/badge/Llicència-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/Llicència-MIT-green)](LICENSE)  
+![Baner App Enviar correu massiu](./assets/baner_enviar_correu_massiu.png)
 
 # 👁️‍🗨️ Introducció
 
@@ -43,3 +44,4 @@ SMTP_SERVER = "smtp.prova.com"
 SMTP_PORT = 465
 SMTP_USER = "el_teu_correu@prova.com"
 SMTP_PASSWORD = "la_teva_contrasenya"
+```
